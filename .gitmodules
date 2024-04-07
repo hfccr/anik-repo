@@ -1,3 +1,7 @@
 [submodule "anik"]
 	path = anik
 	url = https://github.com/hfccr/anik
+[submodule "ipc"]
+	path = ipc
+	url = https://github.com/hfccr/ipc
+	branch = dora
